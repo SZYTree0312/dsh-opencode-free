@@ -12,10 +12,7 @@ agent preset，为 **OpenCode 的免费模型**这条路线做前缀稳定与载
 
 名字从「星」与「桥」：星是那批免费模型（space-bunny、big-pickle…），
 桥是 xdbridge 这座桥。
-
-> **为什么 id 是 `opencode-free` 而不是 `opencode-zen`：**
-> Zen 是对方的**订阅套餐**名，拿别人的产品名当自己 preset 的名字不合适。
-> 这里的 `free` 指的是走的免费额度路线，与套餐无关 —— 本 preset 也不要求你订阅任何东西。
+## 如果安装，一定要仔细阅读README的安装部分，或者是交给任意Agent
 
 ## 最重要的一件事：这条路线不省钱
 
